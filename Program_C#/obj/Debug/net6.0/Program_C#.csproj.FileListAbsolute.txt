@@ -1,0 +1,15 @@
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\bin\Debug\net6.0\Program_C#.exe
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\bin\Debug\net6.0\Program_C#.deps.json
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\bin\Debug\net6.0\Program_C#.runtimeconfig.json
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\bin\Debug\net6.0\Program_C#.dll
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\bin\Debug\net6.0\Program_C#.pdb
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.csproj.AssemblyReference.cache
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.AssemblyInfoInputs.cache
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.AssemblyInfo.cs
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.csproj.CoreCompileInputs.cache
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.dll
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\refint\Program_C#.dll
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.pdb
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\Program_C#.genruntimeconfig.cache
+C:\Users\ИГОРЬ\Desktop\Finish_progect_GeekBrains\Finish_project_Specification\Program_C#\obj\Debug\net6.0\ref\Program_C#.dll
